@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219846115371",
+    "project_id": "dotz-aad57",
+    "storage_bucket": "dotz-aad57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219846115371:android:9ca208a5feb1a1c623ea6e",
+        "android_client_info": {
+          "package_name": "com.dotzteste.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219846115371-0qcq0bv1t0t32snnu5oenn1pqb93iaoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAtWxRSPMiBkCMd97-1X6m4TaaeCRB0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219846115371-0qcq0bv1t0t32snnu5oenn1pqb93iaoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
